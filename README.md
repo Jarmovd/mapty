@@ -1,4 +1,4 @@
-![image](https://github.com/Jarmovd/mapty/assets/47450872/6762fac6-e3de-4322-9e3d-d5c374018010)
+![image](https://github.com/Jarmovd/mapty/assets/47450872/6668aa84-18ce-46a5-942f-e5da2005d19d)
 
 #Mapty
 
