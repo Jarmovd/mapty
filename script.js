@@ -235,9 +235,6 @@ class App {
       <li class="workout workout--${workout.type}" data-id="${workout.id}">
         <h2 class="workout__title">${workout.description}</h2>
         <div class="workout__btns">
-            <button class="workout__btn workout__btn--edit">
-              <i class="fa-solid fa-pen-to-square"></i>
-            </button>
             <button class="workout__btn workout__btn--delete">
               <i class="fa-solid fa-trash"></i>
             </button>
@@ -289,7 +286,6 @@ class App {
     form.insertAdjacentHTML('afterend', html);
 
     const btnDelete = document.querySelector('.workout__btn--delete');
-
     btnDelete.addEventListener('click', this._deleteWorkout.bind(this));
   }
 
